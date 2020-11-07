@@ -69,7 +69,7 @@ h1 {
     outline-style: none;
 }
 
-@media(max-width: 350px) {
+@media(max-width: 500px) {
     .container {
         margin-top: 30px;
     }
